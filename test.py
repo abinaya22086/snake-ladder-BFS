@@ -1,0 +1,1 @@
+print("Python test is running ok!")
